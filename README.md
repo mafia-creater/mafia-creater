@@ -3,7 +3,7 @@
 [![An image of @mafiacreater's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mafiacreater)](https://holopin.io/@mafiacreater)
 
 <!--
-**mafia-creater/mafia-creater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**repotheman/repotheman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
